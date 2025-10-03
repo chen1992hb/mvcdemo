@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="104.207.155.124" id="1963cff8-0cab-4f95-ad38-c39907450af4" port="22" customName="vultr" nameFormat="CUSTOM">
+        <option name="customName" value="vultr" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
